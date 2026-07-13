@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "386383ebf70d0812",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c869ff5eac95b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10029e32797c0ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Програмування.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Програмування"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9b1044722eab3df",
+    "type": "split",
+    "children": [
+      {
+        "id": "661e47dced58eac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65566e114fce2a7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "1fa22db8e8acd796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "ad9b1b399f98d50d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "444ac4e2211987cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ba7dc298e56145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08fe1bb25383b360",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data/Програмування.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Програмування"
+            }
+          },
+          {
+            "id": "02294e3b4aa3c864",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data/Програмування.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з Програмування"
+            }
+          },
+          {
+            "id": "c832d0f53ea267ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "ba8d7df01f331e47",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "93f995f71ff9d532",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data/Програмування.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Програмування"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false,
+      "markdown-importer:Імпорт Markdown-файлів": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "10029e32797c0ee4",
+  "lastOpenFiles": [
+    "Plan.md",
+    "Data/Базові конструкції мов програмування.md",
+    "Data/Мови програмування.md",
+    "Data/Програмування.md",
+    "Data/Ігри.md",
+    "Data/Особисте життя.md",
+    "Excalidraw/Drawing 2026-07-13 21.15.05.excalidraw.md",
+    "Excalidraw",
+    "Без назви.base",
+    "Data/No sql.md",
+    "Data/Бази даних.md",
+    "Excalidraw/Drawing 2026-07-13 20.59.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-13 20.59.36.excalidraw.md",
+    "Plans/Плани програмування.md",
+    "Excalidraw/Drawing 2026-07-13 20.58.40.excalidraw.md",
+    "Data/Напрямки програмування.md",
+    "Plans/Плани на 2026 рік.md",
+    "Templates/Plans.md",
+    "Daily/2026-07-13.md",
+    "Daily/28.02.2026.md",
+    "Daily/24.02.2026.md",
+    "Templates/Daily.md",
+    "Daily/Без назви.md",
+    "Програмування.md",
+    "Data/Архітектура ПЗ.md",
+    "Data/Програмне забезпечення.md",
+    "Data/C sharp.md",
+    "Data/Змінна.md"
+  ]
+}
