@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Програмування.md",
+                "file": "Data/Гра контроль гравітації.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Програмування"
+              "title": "Гра контроль гравітації"
+            }
+          },
+          {
+            "id": "fe7ee73c32d494e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Плакат для реалізації ідеї для гри.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Плакат для реалізації ідеї для гри"
             }
           }
         ]
@@ -181,18 +193,29 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "bases:Створити нову базу": false,
-      "markdown-importer:Імпорт Markdown-файлів": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "10029e32797c0ee4",
   "lastOpenFiles": [
+    "Data/Сюжет гри про контроль гравітації.md",
+    "Data/Гра контроль гравітації.md",
+    "Data/Ідеї для розробки ігор.md",
+    "Data/Ідеї.md",
     "Plan.md",
-    "Data/Базові конструкції мов програмування.md",
-    "Data/Мови програмування.md",
+    "Excalidraw/Плакат для реалізації ідеї для гри.md",
     "Data/Програмування.md",
-    "Data/Ігри.md",
+    "Data/Базові конструкції мов програмування.md",
     "Data/Особисте життя.md",
+    "Data/Типи даних.md",
+    "Data/Змінна.md",
+    "Data/Проблеми та їх вирішення.md",
+    "Data/Backend.md",
+    "Data/Ігри.md",
+    "Daily/2026-07-14.md",
+    "Daily/2026-07-13.md",
+    "2026-07-14.md",
+    "Data/Мови програмування.md",
     "Excalidraw/Drawing 2026-07-13 21.15.05.excalidraw.md",
     "Excalidraw",
     "Без назви.base",
@@ -202,18 +225,6 @@
     "Excalidraw/Drawing 2026-07-13 20.59.36.excalidraw.md",
     "Plans/Плани програмування.md",
     "Excalidraw/Drawing 2026-07-13 20.58.40.excalidraw.md",
-    "Data/Напрямки програмування.md",
-    "Plans/Плани на 2026 рік.md",
-    "Templates/Plans.md",
-    "Daily/2026-07-13.md",
-    "Daily/28.02.2026.md",
-    "Daily/24.02.2026.md",
-    "Templates/Daily.md",
-    "Daily/Без назви.md",
-    "Програмування.md",
-    "Data/Архітектура ПЗ.md",
-    "Data/Програмне забезпечення.md",
-    "Data/C sharp.md",
-    "Data/Змінна.md"
+    "Data/Напрямки програмування.md"
   ]
 }
